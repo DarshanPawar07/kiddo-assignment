@@ -1,4 +1,7 @@
-# Kiddo SDUI Assignment
+# Kiddo Assignment
+
+🌐 Live Application:
+https://kiddo-assignment.vercel.app/
 
 ## Overview
 
