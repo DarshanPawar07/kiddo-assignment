@@ -1,0 +1,18 @@
+{
+"id": "MYSTERY_GIFT_CARNIVAL",
+"label": "Mystery Gift Carnival",
+"theme": {
+"primary": "#DC2626",
+"background": "#FEE2E2",
+"secondary": "#F87171",
+"text": "#111827",
+"card": "#FFFFFF",
+"border": "#E5E7EB",
+"borderRadius": 12
+},
+"featuredCollection": {
+"id": "mystery-gifts",
+"title": "Mystery Gifts"
+},
+"isActive": false
+}

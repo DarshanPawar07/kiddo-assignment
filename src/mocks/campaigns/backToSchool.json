@@ -1,0 +1,18 @@
+{
+"id": "BACK_TO_SCHOOL",
+"label": "Back To School",
+"theme": {
+"primary": "#2563EB",
+"background": "#FEF08A",
+"secondary": "#60A5FA",
+"text": "#111827",
+"card": "#FFFFFF",
+"border": "#E5E7EB",
+"borderRadius": 12
+},
+"featuredCollection": {
+"id": "lunchboxes-and-bags",
+"title": "Lunchboxes & Bags"
+},
+"isActive": true
+}

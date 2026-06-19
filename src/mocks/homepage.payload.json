@@ -1,0 +1,107 @@
+
+
+{
+"screenId": "homepage_v1",
+"theme": {
+"primary": "#FF9933",
+"background": "#FFF5E6",
+"secondary": "#FFD699",
+"text": "#1F2937",
+"card": "#FFFFFF",
+"border": "#E5E7EB",
+"success": "#22C55E",
+"warning": "#F59E0B",
+"borderRadius": 12
+},
+"activeCampaign": "BACK_TO_SCHOOL",
+"feed": [
+{
+"id": "banner_1",
+"type": "BANNER_HERO",
+"imageUrl": "https://plus.unsplash.com/premium_photo-1663957835183-a11d378f63b8?q=80&w=2042&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"altText": "Back To School Sale",
+"action": {
+"type": "DEEP_LINK",
+"payload": {
+"url": "https://kiddo.app/back-to-school"
+}
+}
+},
+{
+"id": "grid_1",
+"type": "PRODUCT_GRID_2X2",
+"title": "Popular Products",
+"items": [
+{
+"id": "p1",
+"title": "School Bag",
+"imageUrl": "https://images.unsplash.com/photo-1680039211156-66c721b87625?q=80&w=390&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"price": 799,
+"mrp": 999
+},
+{
+"id": "p2",
+"title": "Lunch Box",
+"imageUrl": "https://images.unsplash.com/photo-1726726192151-6d4139ff229d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"price": 399,
+"mrp": 499
+},
+{
+"id": "p3",
+"title": "Water Bottle",
+"imageUrl": "https://images.unsplash.com/photo-1625708458528-802ec79b1ed8?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"price": 299,
+"mrp": 399
+},
+{
+"id": "p4",
+"title": "Color Kit",
+"imageUrl": "https://images.unsplash.com/photo-1777537953490-b01138e9e91c?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"price": 499,
+"mrp": 699
+}
+]
+},
+{
+"id": "collection_1",
+"type": "DYNAMIC_COLLECTION",
+"title": "Lunchboxes & Bags",
+"subtitle": "Back To School Essentials",
+"action": {
+"type": "DEEP_LINK",
+"payload": {
+"url": "https://kiddo.app/lunchboxes"
+}
+},
+"items": [
+{
+"id": "p5",
+"title": "Premium Bag",
+"imageUrl": "https://images.unsplash.com/photo-1547949003-9792a18a2601?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"price": 999,
+"mrp": 1299
+},
+{
+"id": "p6",
+"title": "Kids Bottle",
+"imageUrl": "https://images.unsplash.com/photo-1568395216634-ab1b1e848751?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"price": 249,
+"mrp": 349
+},
+{
+"id": "p7",
+"title": "Tiffin Box",
+"imageUrl": "https://plus.unsplash.com/premium_photo-1661438553846-cdd78379e11b?q=80&w=874&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"price": 549,
+"mrp": 699
+}
+]
+},
+{
+"id": "unknown_component_1",
+"type": "NEW_COMPONENT_V2",
+"title": "Should Be Ignored"
+}
+]
+}
+

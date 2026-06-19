@@ -1,0 +1,18 @@
+{
+"id": "SUMMER_PLAYHOUSE",
+"label": "Summer Playhouse",
+"theme": {
+"primary": "#0284C7",
+"background": "#E0F2FE",
+"secondary": "#38BDF8",
+"text": "#0F172A",
+"card": "#FFFFFF",
+"border": "#E5E7EB",
+"borderRadius": 12
+},
+"featuredCollection": {
+"id": "petting-zoo",
+"title": "Petting Zoo Tickets"
+},
+"isActive": false
+}
