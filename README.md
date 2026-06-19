@@ -3,6 +3,19 @@
 🌐 Live Application:
 https://kiddo-assignment.vercel.app/
 
+**Note:** This project is built using React Native (Expo). To experience the mobile layout on a desktop/laptop browser:
+
+1. Open the live demo link.
+2. Press **F12** or **Right Click → Inspect**.
+3. Click the **Toggle Device Toolbar** (mobile/tablet icon) or press **Ctrl + Shift + M**.
+4. Select a mobile device (e.g., iPhone 14 Pro, Pixel 7, Samsung Galaxy S20).
+5. Refresh the page if required.
+
+This provides a mobile-like viewing experience similar to how the application is intended to be used.
+
+### GitHub Repository
+💻 https://github.com/DarshanPawar07/kiddo-assignment
+
 ## Overview
 
 This project implements a production-inspired **Server Driven UI (SDUI)** architecture using **React Native**, **Expo**, **TypeScript**, **Zustand**, and **FlashList**.
